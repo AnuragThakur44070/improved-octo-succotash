@@ -1,5 +1,3 @@
-# improved-octo-succotash
-
 # Hi, I'm Anurag Singh Chandel 👋
 
 **Full Stack Developer** with 1.9+ years of experience building scalable, enterprise-grade web and application solutions in insurance and healthcare domains. [file:1]  
